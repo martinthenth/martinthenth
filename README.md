@@ -7,7 +7,7 @@ My goal is to continuously improve myself, build new things, and having fun whil
 ### 👨‍💻 Now
 
 - I'm currently working at **[Fresha](https://www.fresha.com)** as **Elixir Back-End Engineer**. We build marketplace, business management, and payment solutions for the beauty and wellness industry 💇💅.
-- I'm learning about **software architecture** and **scalable systems**, focusing on microservices with **Kafka**, **Redis**, **Elasticsearch** and **PostgreSQL**.
+- I'm learning about **software architecture** and **distributed systems**, focusing on microservices with **Kafka**, **Redis**, **Elasticsearch** and **PostgreSQL**.
 - I write blogs at **[dev.to/martinthenth](https://dev.to/martinthenth)**.
 
 ### 🔮 Future
