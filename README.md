@@ -20,7 +20,7 @@ My goal is to continuously improve myself, build new things, and having fun whil
 
 ---
 
-### 📙 My latest blog posts:
+### 📙 My latest blog posts
 
 - [Using Ecto changesets for JSON API request parameter validation](https://dev.to/martinthenth/using-ecto-changesets-for-json-api-request-parameter-validation-3po)
 - [Using Elixir's "with" statement](https://dev.to/martinthenth/using-elixirs-with-statement-5e36)
