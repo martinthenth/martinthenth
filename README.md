@@ -2,7 +2,7 @@
 
 I'm a **software engineer** looking for exciting, and challenging projects. My specialization is **backend engineering**, with a focus on building scalable systems with the **Elixir** programming language.
 
-My goal is to continuously improve myself, build new things, and having fun while doing that.
+My goal is to continuously improve myself, build new things, and have fun while doing that.
 
 ### 👨‍💻 Now
 
