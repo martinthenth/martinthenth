@@ -16,7 +16,7 @@ My goal is to continuously improve myself, build new things, and have fun while 
 
 ### ℹ️ Other skills
 
-- **JavaScript** and **TypeScript** (4 YOE).
+- **JavaScript** and **TypeScript** (4.5 YOE).
 
 ---
 
