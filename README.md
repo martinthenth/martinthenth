@@ -12,7 +12,7 @@ My goal is to continuously improve myself, build new things, and have fun while 
 
 ### 🔮 Future
 
-- Learning **Rust** and **Python**.
+- Learning **Go**.
 
 ### ℹ️ Other skills
 
