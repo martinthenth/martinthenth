@@ -1,8 +1,6 @@
 # 👋 Hey there - I'm Martin Nijboer
 
-I'm a **software engineer** looking for exciting, and challenging projects. My specialization is **backend engineering**, with a focus on building scalable systems with the **Elixir** programming language.
-
-My goal is to continuously improve myself, build new things, and have fun while doing that.
+I'm a **software engineer** working on exciting, and challenging projects. My specialty is **backend engineering**, focussing on building scalable systems with the **Elixir** programming language. My goal is to continuously improve myself, build new things, and have fun while doing that.
 
 ### 👨‍💻 Now
 
@@ -21,7 +19,7 @@ My goal is to continuously improve myself, build new things, and have fun while 
 
 ---
 
-### 📙 My latest blog posts
+### 📙 My blog posts
 
 - [Using Ecto changesets for JSON API request parameter validation](https://dev.to/martinthenth/using-ecto-changesets-for-json-api-request-parameter-validation-3po)
 - [Using Elixir's "with" statement](https://dev.to/martinthenth/using-elixirs-with-statement-5e36)
