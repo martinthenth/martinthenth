@@ -4,14 +4,15 @@ I'm a **software engineer** working on exciting, and challenging projects. My sp
 
 ### 👨‍💻 Now
 
-- I'm currently working at **[Fresha](https://www.fresha.com)** as **Elixir Back-End Engineer**. We build marketplace, business management, and payment solutions for the beauty and wellness industry 💇💅.
-- I'm learning about **software architecture** and **distributed systems**, focusing on microservices with **Kafka**, **Redis**, **Elasticsearch** and **PostgreSQL**.
+- I work at **[Fresha](https://www.fresha.com)** as **Backend engineer**. We're building the operating systme for the beauty and wellness industry 💇💅.
+- I have experience working with **software architecture** and **distributed systems**, focusing on microservices with **Kafka**, **Redis**, **Elasticsearch** and **PostgreSQL**.
 - I write blogs at **[dev.to/martinthenth](https://dev.to/martinthenth)**.
-- I'm writing a parameter validation library called **[Goal](https://github.com/martinthenth/goal)**.
+- I maintain a parameter validation library called **[Goal](https://github.com/martinthenth/goal)**.
+- As well as a UUID version 7 implementation for Elixir called **[UUIDv7](https://github.com/martinthenth/uuidv7)**.
 
 ### 🔮 Future
 
-- Learning **Go**.
+- Learning **Rust**.
 
 ### ℹ️ Other skills
 
