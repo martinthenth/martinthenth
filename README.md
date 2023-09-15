@@ -16,7 +16,7 @@ I'm a **software engineer** working on exciting, and challenging projects. My sp
 
 ### ℹ️ Other skills
 
-- **JavaScript** and **TypeScript** (5 YOE).
+- **JavaScript** and **TypeScript** (6 YOE).
 
 ---
 
