@@ -12,11 +12,11 @@ I'm a **software engineer** working on exciting, and challenging projects. My sp
 
 ### 🔮 Future
 
-- Learning **Rust**.
+- Learning **Rust** (in progress).
 
 ### ℹ️ Other skills
 
-- **JavaScript** and **TypeScript** (6 YOE).
+- **JavaScript** and **TypeScript** (>6 years), Ruby (1 year), Rust (1 year).
 
 ---
 
