@@ -5,6 +5,6 @@ Hey there! I'm a **backend engineer** from the Netherlands specialized in Elixir
 ### 👨‍💻 Now
 
 - I'm a **backend engineer** at [Fresha](https://www.fresha.com).
-- I'm a specialist in Elixir and Golang backends, and TypeScript frontends.
-- I've worked with systems that process millions of bookings per month.
+- I'm a specialist in Elixir, Golang, and TypeScript backends.
+- I've worked with distributed systems that process millions of bookings per month.
 - I've worked with Elixir for 7 years.
