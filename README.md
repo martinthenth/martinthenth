@@ -4,7 +4,7 @@ Hey there! I'm a **backend engineer** from the Netherlands specialized in Elixir
 
 ### 👨‍💻 Now
 
-- I'm a **backend engineer** at [Flexport](http://flexport.com).
+- I'm a **Software Engineer** at [Flexport](http://flexport.com).
 - I'm a specialist in Elixir, Golang, TypeScript, and Ruby backends.
 - I've worked with distributed systems that process millions of bookings per month.
 - I've worked with Elixir for 7 years.
