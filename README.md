@@ -1,6 +1,6 @@
 # Martin Nijboer
 
-Hey there! I'm a Software Engineer from the Netherlands specialized in Elixir, Go, Rust, TypeScript, and Ruby. I maintain two open-source libraries in Elixir called [goal](https://github.com/martinthenth/goal) and [uuidv7](https://github.com/martinthenth/uuidv7). 
+Hey there! I'm a Software Engineer specialized in Elixir, Go, Rust, TypeScript, and Ruby. I maintain two open-source libraries in Elixir called [goal](https://github.com/martinthenth/goal) and [uuidv7](https://github.com/martinthenth/uuidv7). 
 
 ### 👨‍💻 Now
 
@@ -13,3 +13,4 @@ Hey there! I'm a Software Engineer from the Netherlands specialized in Elixir, G
 
 - Product Engineer at [Fresha](https://fresha.com).
 - Distributed systems that process millions of bookings per month.
+- Building microservices to improve developer and platform efficiency.
